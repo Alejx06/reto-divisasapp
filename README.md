@@ -17,24 +17,19 @@ En esta sección se muestran las principales pantallas de la aplicación. Para a
 
 
 
-### 4. Historial de operaciones
+### 3. Historial de operaciones
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/7a38412f-54ef-4a9c-afdf-0c759a9b23e2" />
 
 
-
-### 5. Panel de administración y auditoría
-<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/bc89a49f-3988-4256-bdc2-69fa0eeb4eb5" />
-
-### 6. Base de datos firebase donde se alamcena el usuario y las operaciones
+### 4. Base de datos firebase donde se alamcena el usuario y las operaciones
 <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/d333fac4-b620-42f1-b48c-5174df5c1029" />
 
 
 
-### 7. Operación Rechazada de divisa
+### 5. Operación Rechazada de divisa
 <img width="1911" height="1017" alt="image" src="https://github.com/user-attachments/assets/6ae68a12-7946-42b3-9495-bd66335ef90a" />
 
-### 8. Auditoria pendiente de administrador 
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/6588fe4e-7987-401c-b815-d784fac41dc1" />
+
 
 
 
@@ -200,11 +195,7 @@ Los resultados deben comprobarse después de ejecutar cada comando.
 
 
 
-## 👨‍💻 Autor
 
-**Juan Camilo Giraldo Lizcano**
-
-Repositorio: [AplicacionReto2 en GitHub](https://github.com/kmigi0211k/AplicacionReto2)
 # 📱 Integración de Cámara y Asistente por Voz
 
 <p align="center">
