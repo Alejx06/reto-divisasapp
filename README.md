@@ -16,10 +16,6 @@ En esta sección se muestran las principales pantallas de la aplicación. Para a
 
 
 
-### 3. Perfil de usuario
-<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/1d6b040b-72ef-493f-8857-3d721e473352" />
-
-
 
 ### 4. Historial de operaciones
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/7a38412f-54ef-4a9c-afdf-0c759a9b23e2" />
@@ -33,7 +29,6 @@ En esta sección se muestran las principales pantallas de la aplicación. Para a
 <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/d333fac4-b620-42f1-b48c-5174df5c1029" />
 
 
-<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/e08273b4-fb99-43ff-a0cb-15070d93743c" />
 
 ### 7. Operación Rechazada de divisa
 <img width="1911" height="1017" alt="image" src="https://github.com/user-attachments/assets/6ae68a12-7946-42b3-9495-bd66335ef90a" />
